@@ -1,0 +1,3 @@
+ls:loc -a
+host:ls
+li:link

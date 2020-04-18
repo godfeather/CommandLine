@@ -1,0 +1,6 @@
+link godfather
+cd D:\Users\HP\Videos\Captures\
+$file=¾øµØÇóÉú  2019_1_12 11_52_43.mp4
+put $file
+en D:/javaproject
+put $file

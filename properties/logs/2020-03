@@ -1,0 +1,129 @@
+2020-03-14 16:06:36-684 [Remote Perator]- Massage:读取配置文件
+2020-03-14 16:06:37-671 [Remote Perator]- Massage:正在读取配置文件
+2020-03-14 16:06:37-673 [Remote Perator]- Massage:读取配置文件成功
+2020-03-14 16:06:37-674 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-14 16:06:37-677 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-14 16:06:37-685 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-14 16:06:37-687 [Remote Perator]- Massage:应用配置
+2020-03-14 16:06:37-687 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-14 16:06:37-688 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-14 16:10:15-660 [Remote Perator]- Massage:读取配置文件
+2020-03-14 16:10:15-662 [Remote Perator]- Massage:正在读取配置文件
+2020-03-14 16:10:15-665 [Remote Perator]- Massage:读取配置文件成功
+2020-03-14 16:10:15-666 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-14 16:10:15-668 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-14 16:10:15-677 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-14 16:10:15-677 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-14 16:10:15-678 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-14 16:10:15-678 [Remote Perator]- Massage:应用配置
+2020-03-14 16:10:15-679 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-14 16:11:09-629 [Remote Perator]- Massage:读取配置文件
+2020-03-14 16:11:09-632 [Remote Perator]- Massage:正在读取配置文件
+2020-03-14 16:11:09-633 [Remote Perator]- Massage:读取配置文件成功
+2020-03-14 16:11:09-635 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-14 16:11:09-637 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-14 16:11:09-645 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-14 16:11:09-647 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-14 16:11:09-647 [Remote Perator]- Massage:应用配置
+2020-03-14 16:11:09-648 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 22:55:42-174 [Remote Perator]- Massage:读取配置文件
+2020-03-22 22:55:42-189 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 22:55:42-190 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 22:55:42-191 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 22:55:42-193 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 22:55:42-199 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 22:55:42-201 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-22 22:55:42-202 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:00:19-764 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:00:19-765 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:00:19-767 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:00:19-768 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:00:19-770 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:00:19-777 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:00:19-778 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-22 23:00:19-778 [Remote Perator]- Massage:应用配置
+2020-03-22 23:00:19-779 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-22 23:00:19-780 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:01:09-555 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:01:09-557 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:01:09-558 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:01:09-559 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:01:09-561 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:01:09-569 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:01:09-569 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-22 23:01:09-611 [Remote Perator]- Massage:应用配置
+2020-03-22 23:01:09-612 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:12:46-864 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:12:46-866 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:12:46-868 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:12:46-869 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:12:46-870 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:12:46-878 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:12:46-878 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-22 23:12:46-879 [Remote Perator]- Massage:应用配置
+2020-03-22 23:12:46-879 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-22 23:12:46-880 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:12:50-006 [Remote Perator]- Massage:使用命令：[]
+2020-03-22 23:15:38-787 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:15:38-789 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:15:38-790 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:15:38-791 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:15:38-793 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:15:38-799 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:15:38-799 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-22 23:15:38-800 [Remote Perator]- Massage:应用配置
+2020-03-22 23:15:38-801 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-22 23:15:38-802 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:15:45-346 [Remote Perator]- Massage:使用命令：[]
+2020-03-22 23:15:49-906 [Remote Perator]- Massage:使用命令：[]
+2020-03-22 23:17:01-375 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:17:01-377 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:17:01-378 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:17:01-379 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:17:01-380 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:17:01-387 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:17:01-389 [Remote Perator]- Massage:应用配置
+2020-03-22 23:17:01-390 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:17:17-803 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:17:17-806 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:17:17-807 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:17:17-852 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:17:17-855 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:17:17-864 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-22 23:17:17-864 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:17:17-866 [Remote Perator]- Massage:应用配置
+2020-03-22 23:17:17-866 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-22 23:17:17-867 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:17:32-415 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:17:32-417 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:17:32-418 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:17:32-419 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:17:32-421 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:17:32-428 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:17:32-429 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-22 23:17:32-429 [Remote Perator]- Massage:应用配置
+2020-03-22 23:17:32-431 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:17:35-166 [Remote Perator]- Massage:使用命令：[]
+2020-03-22 23:17:48-515 [Remote Perator]- Massage:读取配置文件
+2020-03-22 23:17:48-517 [Remote Perator]- Massage:正在读取配置文件
+2020-03-22 23:17:48-518 [Remote Perator]- Massage:读取配置文件成功
+2020-03-22 23:17:48-520 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-22 23:17:48-521 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-22 23:17:48-529 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-22 23:17:48-530 [Remote Perator]- Massage:主通讯端口被启动
+2020-03-22 23:17:48-531 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-22 23:17:48-532 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-22 23:17:50-475 [Remote Perator]- Massage:使用命令：[]
+2020-03-22 23:17:51-136 [Remote Perator]- Massage:使用命令：[]
+2020-03-29 10:01:58-583 [Remote Perator]- Massage:读取配置文件
+2020-03-29 10:01:58-618 [Remote Perator]- Massage:正在读取配置文件
+2020-03-29 10:01:58-620 [Remote Perator]- Massage:读取配置文件成功
+2020-03-29 10:01:58-622 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2020-03-29 10:01:58-624 [Remote Perator]- Massage:装载ServerSocket开启监听端口<3066>
+2020-03-29 10:01:58-659 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2020-03-29 10:01:58-661 [Remote Perator]- Massage:检查alive状态：<true>
+2020-03-29 10:01:58-662 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2020-03-29 10:02:01-942 [Remote Perator]- Massage:使用命令：[]
+2020-03-29 10:02:09-172 [Remote Perator]- Massage:使用命令：[link]
+2020-03-29 10:02:12-384 [Remote Perator]- Massage:使用命令：[]
+2020-03-29 10:02:15-602 [Remote Perator]- Massage:使用命令：[link]

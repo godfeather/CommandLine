@@ -1,0 +1,6 @@
+#this file is explorerEngine table, the '=' sign between key and value,on the left is name,on the right is expression,the '$'sign is varviable,the varviable name must be 'value',it will be replace to input value  when you use explorer searching
+#该文件为资源浏览器引擎表，‘=’两边为键和值，左边表示名称，右边为表达式，而表达式中的$value会在您使用浏览器搜索功能时替换为你搜索时的值
+baidu=http://www.baidu.com/s?wd=$value
+biying=https://cn.bing.com/search?q=$value
+sougou=https://www.sogou.com/web?query=$value
+360=https://www.so.com/s?q=$value

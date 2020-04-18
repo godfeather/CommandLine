@@ -1,0 +1,44 @@
+2019-09-21 22:56:46-762 [Spy]- Massage:构建主程序
+2019-09-21 22:57:07-383 [Spy]- Massage:通过配置文件初始化端口和ip完成
+2019-09-21 22:57:07-386 [Spy]- Massage:构建主程序
+2019-09-21 22:57:15-205 [Spy]- Massage:通过配置文件初始化端口和ip完成
+2019-09-21 22:57:15-208 [Spy]- Massage:构建主程序
+2019-09-21 22:57:16-485 [Remote Perator]- Massage:读取配置文件
+2019-09-21 22:57:16-487 [Remote Perator]- Massage:正在读取配置文件
+2019-09-21 22:57:16-488 [Remote Perator]- Massage:读取配置文件成功
+2019-09-21 22:57:16-490 [Remote Perator]- Massage:读取延迟启动配置项<false>
+2019-09-21 22:57:16-492 [Remote Perator]- Massage:装载ServerSocket开启监听端口<6666>
+2019-09-21 22:57:16-500 [Remote Perator]- Massage:主通讯端口被启动
+2019-09-21 22:57:16-500 [Remote Perator]- Massage:GUI初始化配置项<disabled>
+2019-09-21 22:57:16-501 [Remote Perator]- Massage:应用配置
+2019-09-21 22:57:16-502 [Remote Perator]- Massage:人数无限制：<true>---阈值连接人数：<0>	tap:阈值连接人数为0时，人数无限制应为true；否则人数限制为false
+2019-09-21 22:57:16-748 [Spy]- Massage:连接到远程控制台
+2019-09-21 22:57:16-749 [Spy]- Massage:启动服务线程
+2019-09-21 22:57:16-750 [Remote Perator]- Massage:代理线程被初始化
+2019-09-21 22:57:16-752 [Remote Perator]- Massage:代理线程启动
+2019-09-21 22:57:16-781 [Remote Perator]- Massage:收到新消息：<#NAME#>Godfather
+2019-09-21 22:57:16-781 [Spy]- Massage:报名，请求连接
+2019-09-21 22:57:16-782 [Remote Perator]- Massage:验证主机是否重复加入
+2019-09-21 22:57:16-783 [Spy]- Massage:服务线程启动成功
+2019-09-21 22:57:18-963 [Remote Perator]- Massage:使用命令：[ls]
+2019-09-21 22:57:21-965 [Remote Perator]- Massage:使用命令：[link godfather]
+2019-09-21 22:57:29-610 [Remote Perator]- Massage:使用命令：[logcat]
+2019-09-21 22:57:29-612 [Spy]- Massage:收到消息：<#log#>
+2019-09-21 22:57:29-613 [Remote Perator]- Massage:主线程陷入等待
+2019-09-21 22:57:29-614 [Remote Perator]- Massage:收到新消息：<#log#>2
+2019-09-21 22:57:29-819 [Remote Perator]- Massage:收到新消息：<#LOG_FI#>
+2019-09-21 22:57:30-705 [Remote Perator]- Massage:主线程陷入等待
+2019-09-21 22:57:36-460 [Remote Perator]- Massage:使用命令：[an -v]
+2019-09-21 22:58:44-589 [Remote Perator]- Massage:使用命令：[view -ip]
+2019-09-21 22:58:44-590 [Remote Perator]- Massage:请求ip地址
+2019-09-21 22:58:44-590 [Spy]- Massage:收到消息：<#ip#>
+2019-09-21 22:58:44-592 [Remote Perator]- Massage:收到新消息：<#ip#>localhost/127.0.0.1
+2019-09-21 22:58:44-592 [Spy]-nullsend ip
+2019-09-21 22:59:03-788 [Remote Perator]- Massage:使用命令：[logcat]
+2019-09-21 22:59:03-790 [Remote Perator]- Massage:主线程陷入等待
+2019-09-21 22:59:03-790 [Spy]- Massage:收到消息：<#log#>
+2019-09-21 22:59:03-791 [Remote Perator]- Massage:收到新消息：<#log#>2
+2019-09-21 22:59:03-996 [Remote Perator]- Massage:收到新消息：<#LOG_FI#>
+2019-09-21 22:59:04-721 [Remote Perator]- Massage:主线程陷入等待
+2019-09-21 22:59:07-492 [Remote Perator]- Massage:使用命令：[an v]
+2019-09-21 22:59:12-259 [Remote Perator]- Massage:使用命令：[an -v]
